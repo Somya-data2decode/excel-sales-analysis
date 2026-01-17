@@ -53,3 +53,11 @@ Screenshots of pivot charts and summary tables are included in this repository.
 Content Creator – *Data 2 Decode*  
 Aspiring Data Analyst
 
+## 📷 Project Screenshots
+
+### Sales by Product Line
+![Sales Chart](sales_by_product_line_chart.png)
+
+### Pivot Table Summary(Screenshot 142)
+![Pivot Table](pivot_table_summary.png)
+
